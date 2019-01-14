@@ -1,3 +1,12 @@
+Projet de Bérénice Bourgon (Slack: @Bérénice) ====== de Mathieu PIERRE (@Mathieu PIERRE) ======= de Yannick Ays (@MisterAYS)
+Rendu validant du lundi 14 janvier 
+Session 7
+
+Bonne lecture et merci pour la correction <3 et les retours !!
+
+Bérénice, Mathieu et Yannick
+
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
